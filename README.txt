@@ -1,4 +1,4 @@
-Piersicanu Radu 332CB
+Piersicanu Radu
 
 Utilizare aplicatie:
 	-miscare bila generatoare de picaturi: W,A,S,D,Q,E
